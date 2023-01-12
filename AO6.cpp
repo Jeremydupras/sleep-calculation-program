@@ -4,7 +4,7 @@
 # Date:             09 December 2022
 # Description:      This program prompts the user for a sleep start and wake up
 #                   time and returns the total sleep time.
-# Sources:          Zybooks.
+# Sources:          
 #******************************************************************************/
 
 #include <iostream>
